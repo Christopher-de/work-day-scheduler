@@ -2,7 +2,7 @@
 
 ### URL: https://christopher-de.github.io/work-day-scheduler/
 Deployed Webside:
-![image](https://user-images.githubusercontent.com/84211810/126126564-88f9f257-d672-489f-9b94-81fd1b834412.png)
+![image](https://user-images.githubusercontent.com/84211810/126126827-e08d82b1-c071-4c6a-a322-05f34b600946.png)
 
 ## Description
 A simple day planner that allows users to save events for each hour of the workday. Saved tasks will persist after page is reloaded and are editable. 
